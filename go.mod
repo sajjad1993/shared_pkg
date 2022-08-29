@@ -1,4 +1,4 @@
-module sajjad1993/pkg
+module github.com/sajjad1993/pkg
 
 go 1.19
 
